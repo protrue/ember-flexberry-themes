@@ -296,6 +296,14 @@
   }
 }
 
+.ui.form .field > label.sidepage-open {
+  background: transparent;
+  font-size: @labelOpenSidePageFontSize;
+  line-height: @labelOpenSidePageLineHeight;
+  border-bottom: @labelOpenSidePageBorderBottom;
+  text-align: left;
+}
+
 /*-------------------
       Mobile
 --------------------*/
